@@ -10,6 +10,7 @@ Conceptual:
 - Some inspiration on generative art from the Internet:
 ![generative art](http://payload62.cargocollective.com/1/0/15329/3547923/processing01_1020.jpg)
 ![generative art](http://www.paespedro.com.br/wp-content/uploads/2010/08/paespedro_wallpaper.jpg)
+![generative art](http://www.flashandmath.com/advanced/perlinlines/lines3.jpg)
 ![generative art](http://farm6.static.flickr.com/5181/5684227324_48a99ff30f_z.jpg)
 ![generative art](http://www.creativeapplications.net/wp-content/uploads/2009/12/arcs2101.jpg)
 ![generative art](http://farm6.static.flickr.com/5293/5498807815_d126a728fa_z.jpg)
